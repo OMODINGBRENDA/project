@@ -1,0 +1,16 @@
+.one{
+    color: red;
+}
+.three{
+    color: blue;
+}
+#container{
+    color: lime;
+}
+#hover{
+    font-size: 59px;
+}
+#zero{
+    font-size: 50px;
+    color: darkred;
+}
